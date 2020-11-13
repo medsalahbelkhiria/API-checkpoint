@@ -1,0 +1,11 @@
+*{
+    background-color: #1b262c;
+}
+
+li{
+    text-align: center;
+    color: #d37815;
+    margin: 10px;
+    list-style: none;
+    font-weight: bold;
+}
